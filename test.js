@@ -1,9 +1,2 @@
-console.log("hello");
-
-console.log("good boy");
-
-console.log("bububu");
-
-console.log("ddd");
-
-console.log("edit");
+const a = 10;
+console.log(a * 10);
