@@ -1,2 +1,9 @@
-const a = 10;
-console.log(a);
+console.log("hello");
+
+console.log("good boy");
+
+console.log("bububu");
+
+console.log("ddd");
+
+console.log("edit");
